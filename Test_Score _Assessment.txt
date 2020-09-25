@@ -1,0 +1,14 @@
+Test Score for Lambda School - Whiteboard Fitness Assessment I
+
+
+
+Test Score for Lambda School - Whiteboard Fitness Assessment I
+Name	Kolade Junaid
+Email	kolade-junaid@lambdastudents.com
+Test status	COMPLETED
+Test completed at	Wed Sep 23 2020 21:45:44 GMT+0000 (Coordinated Universal Time)
+Your test score	163
+Max test score	175
+Your Percentage Score	93.1%
+Duration in mins	136
+Test Report	https://app.codesignal.com/test-result/JQXSsyPzXCP7KP2uK?accessToken=riSN79DwWmRmwFk5H-TxvhnNSug2JL9Mouz3GBSEaR
